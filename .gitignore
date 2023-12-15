@@ -52,3 +52,5 @@ wheels/
 
 #file_storage
 uploads/
+migrations/versions
+tests/
